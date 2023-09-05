@@ -3,9 +3,9 @@
   <p style="text-align: center;">Welcome! My name is Curtis Kin Kokuloku</p>
 </div>
 
+---
 
-
-> :man_technologist: About me
+:man_technologist: About me
 
 I am a Computer Science student at the University of Minnesota.
 
@@ -17,7 +17,9 @@ With a strong focus on developing advanced software, artificial intelligence, an
 
 Above all, I am eager to work in a stimulating environment where I can continue to learn, grow, and thrive through meaningful experiences and challenging projects.
 
-> :hammer_and_wrench: Languages
+---
+
+:hammer_and_wrench: Languages
 
 <div id="languages">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -31,7 +33,9 @@ Above all, I am eager to work in a stimulating environment where I can continue 
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
 </div>
 
-> :desktop_computer: OS and Tools
+---
+
+:desktop_computer: OS and Tools
 <div id="tools">
   <img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" title="Apple" **alt="Apple" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original-wordmark.svg" title="Windows" **alt="Windows" width="40" height="40"/>
@@ -40,7 +44,9 @@ Above all, I am eager to work in a stimulating environment where I can continue 
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VSCode" **alt="VSCode" width="40" height="40"/>
 </div>
 
-> :mailbox: Reach me
+---
+
+:mailbox: Reach me
 
 <div id="badges">
   <a href="mailto:kokul003@umn.edu">
@@ -57,7 +63,21 @@ Above all, I am eager to work in a stimulating environment where I can continue 
   </a>
 </div>
 
-> View my Resume
+---
+
+:newspaper: View my Resume
+
+<div id="resume">
+  <a href="https://github.com/curtiskokuloku/web-files/blob/main/kokuloku-curtis-resume.pdf">
+    <img src="https://img.shields.io/badge/Resume-yellow?style=for-the-badge&logo=resume&logoColor=white" alt="Resume Badge"/>
+  </a>
+</div>
+
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=curtiskokuloku)](https://github.com/anuraghazra/github-readme-stats)
+
+---
 
 <div id="views">
   <img src="https://komarev.com/ghpvc/?username=curtiskokuloku&style=flat-square&color=blue" alt=""/>
