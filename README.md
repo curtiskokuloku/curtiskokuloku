@@ -35,6 +35,10 @@ Above all, I am eager to work in a stimulating environment where I can continue 
 
 ---
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=curtiskokuloku)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
 :desktop_computer: OS and Tools
 <div id="tools">
   <img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" title="Apple" **alt="Apple" width="40" height="40"/>
@@ -72,10 +76,6 @@ Above all, I am eager to work in a stimulating environment where I can continue 
     <img src="https://img.shields.io/badge/Resume-yellow?style=for-the-badge&logo=resume&logoColor=white" alt="Resume Badge"/>
   </a>
 </div>
-
----
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=curtiskokuloku)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
